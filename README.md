@@ -21,13 +21,8 @@
 
 
 
-
-
-
-
-
-
 <br />
 <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kondyskrzysiek"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kondyskrzysiek&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kondyskrzysiek&show_icons=true&theme=dark"/>
