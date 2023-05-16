@@ -10,12 +10,11 @@
 - ⚡ Fun fact: I love to go hiking, see the world in less popular places, play the piano / accordion.
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/krzysiek-kondys-765312212/">
+<a href="https://www.linkedin.com/in/krzysztof-kondys-765312212/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 <a href="">
     <img height="50" src="./gmail.svg"/>
-    -> krzysiekkondys@gmail.com
 </a>
 
 
