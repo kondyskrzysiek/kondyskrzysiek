@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/krzysztof-kondys-765312212/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
-<a href="">
+<a href="krzysiekkondys@gmail.com">
     <img height="50" src="./gmail.svg"/>
 </a>
 
